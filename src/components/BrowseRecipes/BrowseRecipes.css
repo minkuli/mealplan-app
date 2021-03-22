@@ -1,0 +1,11 @@
+.BR-header {
+    background-color: #008E6A;
+    height: 120px;
+    padding: 30px;
+    color: white;
+    margin-bottom: 2rem;
+  }
+
+.BR-title {
+    font-size: 1.5em;
+  }
